@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Indagro.BLL\Indagro.BLL.csproj" />
+    <ProjectReference Include="..\Indagro.Entity\Indagro.Entity.csproj" />
+    <ProjectReference Include="..\Indagro.IOC\Indagro.IOC.csproj" />
+  </ItemGroup>
+
+</Project>

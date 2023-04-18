@@ -1,0 +1,14 @@
+C:\Users\caden\Desktop\Proyectos\Indagro\Indagro.Entity\bin\Debug\net6.0\Indagro.Entity.deps.json
+C:\Users\caden\Desktop\Proyectos\Indagro\Indagro.Entity\bin\Debug\net6.0\Indagro.Entity.runtimeconfig.json
+C:\Users\caden\Desktop\Proyectos\Indagro\Indagro.Entity\bin\Debug\net6.0\Indagro.Entity.dll
+C:\Users\caden\Desktop\Proyectos\Indagro\Indagro.Entity\bin\Debug\net6.0\Indagro.Entity.pdb
+C:\Users\caden\Desktop\Proyectos\Indagro\Indagro.Entity\obj\Debug\net6.0\Indagro.Entity.csproj.AssemblyReference.cache
+C:\Users\caden\Desktop\Proyectos\Indagro\Indagro.Entity\obj\Debug\net6.0\Indagro.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caden\Desktop\Proyectos\Indagro\Indagro.Entity\obj\Debug\net6.0\Indagro.Entity.AssemblyInfoInputs.cache
+C:\Users\caden\Desktop\Proyectos\Indagro\Indagro.Entity\obj\Debug\net6.0\Indagro.Entity.AssemblyInfo.cs
+C:\Users\caden\Desktop\Proyectos\Indagro\Indagro.Entity\obj\Debug\net6.0\Indagro.Entity.csproj.CoreCompileInputs.cache
+C:\Users\caden\Desktop\Proyectos\Indagro\Indagro.Entity\obj\Debug\net6.0\Indagro.Entity.dll
+C:\Users\caden\Desktop\Proyectos\Indagro\Indagro.Entity\obj\Debug\net6.0\refint\Indagro.Entity.dll
+C:\Users\caden\Desktop\Proyectos\Indagro\Indagro.Entity\obj\Debug\net6.0\Indagro.Entity.pdb
+C:\Users\caden\Desktop\Proyectos\Indagro\Indagro.Entity\obj\Debug\net6.0\Indagro.Entity.genruntimeconfig.cache
+C:\Users\caden\Desktop\Proyectos\Indagro\Indagro.Entity\obj\Debug\net6.0\ref\Indagro.Entity.dll

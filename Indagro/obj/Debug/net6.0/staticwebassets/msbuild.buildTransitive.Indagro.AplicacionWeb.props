@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Indagro.AplicacionWeb.props" />
+</Project>

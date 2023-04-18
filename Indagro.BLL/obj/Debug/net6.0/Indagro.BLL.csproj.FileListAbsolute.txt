@@ -1,0 +1,17 @@
+C:\Users\caden\Desktop\Proyectos\Indagro\Indagro.BLL\bin\Debug\net6.0\Indagro.BLL.deps.json
+C:\Users\caden\Desktop\Proyectos\Indagro\Indagro.BLL\bin\Debug\net6.0\Indagro.BLL.dll
+C:\Users\caden\Desktop\Proyectos\Indagro\Indagro.BLL\bin\Debug\net6.0\Indagro.BLL.pdb
+C:\Users\caden\Desktop\Proyectos\Indagro\Indagro.BLL\obj\Debug\net6.0\Indagro.BLL.csproj.AssemblyReference.cache
+C:\Users\caden\Desktop\Proyectos\Indagro\Indagro.BLL\obj\Debug\net6.0\Indagro.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caden\Desktop\Proyectos\Indagro\Indagro.BLL\obj\Debug\net6.0\Indagro.BLL.AssemblyInfoInputs.cache
+C:\Users\caden\Desktop\Proyectos\Indagro\Indagro.BLL\obj\Debug\net6.0\Indagro.BLL.AssemblyInfo.cs
+C:\Users\caden\Desktop\Proyectos\Indagro\Indagro.BLL\obj\Debug\net6.0\Indagro.BLL.csproj.CoreCompileInputs.cache
+C:\Users\caden\Desktop\Proyectos\Indagro\Indagro.BLL\obj\Debug\net6.0\Indagro.BLL.dll
+C:\Users\caden\Desktop\Proyectos\Indagro\Indagro.BLL\obj\Debug\net6.0\refint\Indagro.BLL.dll
+C:\Users\caden\Desktop\Proyectos\Indagro\Indagro.BLL\obj\Debug\net6.0\Indagro.BLL.pdb
+C:\Users\caden\Desktop\Proyectos\Indagro\Indagro.BLL\obj\Debug\net6.0\ref\Indagro.BLL.dll
+C:\Users\caden\Desktop\Proyectos\Indagro\Indagro.BLL\bin\Debug\net6.0\Indagro.DAL.dll
+C:\Users\caden\Desktop\Proyectos\Indagro\Indagro.BLL\bin\Debug\net6.0\Indagro.Entity.dll
+C:\Users\caden\Desktop\Proyectos\Indagro\Indagro.BLL\bin\Debug\net6.0\Indagro.DAL.pdb
+C:\Users\caden\Desktop\Proyectos\Indagro\Indagro.BLL\bin\Debug\net6.0\Indagro.Entity.pdb
+C:\Users\caden\Desktop\Proyectos\Indagro\Indagro.BLL\obj\Debug\net6.0\Indagro.BLL.csproj.CopyComplete
